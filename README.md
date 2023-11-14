@@ -1,4 +1,4 @@
 # Simple Snake Game With Javascript
-## Basic Features
-### Simple HTML & CSS
-### JavaScript
+**Basic Features**
+- Simple HTML & CSS
+- JavaScript
